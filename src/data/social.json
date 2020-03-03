@@ -15,19 +15,7 @@
       "type": "instagram",
       "title": "Instagram",
       "icon": "fa-instagram",
-      "url": "https://www.instagram.com/"
-    },
-    {
-      "type": "dribbble",
-      "title": "Dribbble",
-      "icon": "fa-dribbble",
-      "url": "https://dribbble.com/"
-    },
-    {
-      "type": "linkedin",
-      "title": "LinkedIn",
-      "icon": "fa-linkedin",
-      "url": "https://www.linkedin.com/"
+      "url": "https://www.instagram.com/borther"
     }
   ]
 }
