@@ -1,6 +1,11 @@
 {
   "links": [
     {
+      "title": "GitHub",
+      "icon": "fa-github",
+      "url": "https://github.com/orther"
+    },
+    {
       "type": "twitter",
       "title": "Twitter",
       "icon": "fa-twitter",
