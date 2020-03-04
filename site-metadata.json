@@ -4,7 +4,8 @@
   "accent_color": "yellow",
   "header": {
     "title": "Ryatt Works",
-    "has_nav": true
+    "has_nav": true,
+    "logo_img": "/images/Ryatt Works.png"
   },
   "footer": {
     "content": "&copy; Brandon Orther. All rights reserved.",
